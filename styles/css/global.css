@@ -1,3 +1,6 @@
+html * {
+   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
 .avatar {
   border-radius: 50%;
 }
